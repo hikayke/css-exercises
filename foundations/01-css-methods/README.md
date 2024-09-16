@@ -18,7 +18,16 @@ The properties you need to add to each element are:
 
 ### Self Check
 - Did you use all three methods of adding CSS to an HTML file?
+Yes
+
 - Did you properly link the external CSS file in the HTML file?
+Yes
+
 - Does the `div` element have CSS added via the external method?
+Yes, the only thing I did wrong was the bold text, I made the font-weight "700" instead of only "bold":
+
 - Does the `p` element have CSS added via the internal method?
+Yes
+
 - Does the `button` element have CSS added via the inline method?
+Yes
