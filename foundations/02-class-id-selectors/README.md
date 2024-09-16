@@ -21,5 +21,10 @@ Quick tip: in VS Code, you can change which format colors are displayed in RGB, 
 
 ### Self Check
 - Do the odd numbered `p` elements share a class?
+Yes.
+
 - Do the even numbered `div` elements have unique IDs?
+Yes.
+
 - Does the Number 3 element have multiple classes?
+No, I haven't thought about making a class just to adjust the font size. I made both classes share the background color and font. :c

@@ -1,0 +1,20 @@
+.regular-class,
+.cooler-class {
+    background-color: #ff6969c0;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+.cooler-class {
+    font-size: 24px;
+}
+
+#number-two {
+    color: #3838ff;
+    font-size: 36px;
+}
+
+#number-four {
+    background-color: hsl(120, 79%, 74%);
+    font-size: 24px;
+    font-weight: bold;
+}
