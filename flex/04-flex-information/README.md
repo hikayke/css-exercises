@@ -30,3 +30,6 @@ Yes (128px but it's similar), but the text wraps.
 
 - The item text is centered.
 Yes
+
+
+I could have used the same class on all items! I'll make sure to check it next time.
