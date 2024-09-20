@@ -10,6 +10,29 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 24px;
+}
+
+.bigbox {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.saffron,
+.chili,
+.pepper,
+.barberry {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-wrap: wrap;
+  flex: auto;
+  text-align: center;
+  text-wrap: balance;
+  width: 128px;
 }
 
 /* do not edit this footer */
