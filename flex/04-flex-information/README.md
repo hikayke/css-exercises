@@ -26,7 +26,7 @@ Yes
 Yes
 
 - The items are only 200px wide and the text wraps.
-Not 200px wide, but the text wraps.
+Yes (128px but it's similar), but the text wraps.
 
 - The item text is centered.
 Yes
